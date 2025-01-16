@@ -1,2 +1,2 @@
-# eazyShoppin
-EasyShopping is a feature-rich shopping list app that allows users to efficiently manage their tasks with intuitive Jetpack Compose UI, persistent offline storage via Room, real-time data synchronization using Retrofit, and network event handling through Broadcast Receivers.
+EasyShopping is a full-featured shopping list application designed for efficient task management. Built with Jetpack Compose for an intuitive UI, it offers offline data storage using Room Database and real-time synchronization with a backend through Retrofit. The app also utilizes Broadcast Receivers to handle network and charging events, ensuring seamless functionality and reliability. Key features include adding, editing, and deleting items, real-time currency conversion, and persistent storage for uninterrupted access. Future enhancements include voice commands, barcode scanning, and cloud synchronization with Firebase.
+
