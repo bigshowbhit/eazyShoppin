@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497198253124",
+    "project_id": "shopright-da123",
+    "storage_bucket": "shopright-da123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497198253124:android:86316d096a8d90b863e811",
+        "android_client_info": {
+          "package_name": "com.example.easyshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EnsIwwbrw4JcWwWDjwt4kXXSzic9sXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

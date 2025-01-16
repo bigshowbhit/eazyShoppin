@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">easyShopping</string>
+    <string name="battery_is_charging">Battery is charging</string>
+    <string name="battery_is_not_charging">Battery is not charging</string>
+    <string name="internet_is_back_fetching_latest_data">Internet is back! Fetching latest data...</string>
+    <string name="no_internet_some_features_may_be_limited">No internet. Some features may be limited.</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_all">Delete all</string>
+    <string name="summary">Summary</string>
+    <string name="item_name">Item Name</string>
+    <string name="description">Description</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="save">Save</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="fetch_rates">Fetch Rates</string>
+    <string name="app_logo">App Logo</string>
+    <string name="summary_of_items">Summary of Items</string>
+    <string name="press_refresh_to_do_something">Press refresh to do something...</string>
+    <string name="error">Error...</string>
+    <string name="refresh">Refresh</string>
+</resources>
